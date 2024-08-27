@@ -125,9 +125,12 @@
   }
   
   .column {
-    margin-top: auto;
     flex: 50%;
     padding: 5px;
+  }
+  
+  .column > img{
+    margin-top: auto;
   }
   
   body {
